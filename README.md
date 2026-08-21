@@ -651,13 +651,12 @@ mental-health-academic-performance-analysis/
 ├── excel/
 │   └── Mental_Health_Student_Analysis.xlsx
 │
-├── dashboard/
-│   ├── dashboard.png
-│   ├── statistical_analysis.png
-│   └── insights.png
-│
-└── documentation/
-    └── statistical_methodology.md
+└── dashboard/
+    ├── dashboard.png
+    ├── statistical_analysis.png
+    └── insights.png
+
+
 ```
 
 ---
